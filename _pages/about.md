@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of California, Santa Cruz<www.baidu.com>. Heaven. +86 18505815147. hahahahahaha.
 
 profile:
   align: right
