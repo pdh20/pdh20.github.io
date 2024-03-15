@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>University of California, Santa Cruz<www.baidu.com>. Heaven. +86 18505815147. hahahahahaha.
+subtitle: <a href='https://grad.soe.ucsc.edu/ece'>University of California, Santa Cruz<www.baidu.com>. ECE Department. 
+
+1156 High St, Santa Cruz, CA 95064, +86 18505815147.
 
 profile:
   align: right
@@ -20,4 +22,3 @@ I am Denghui Pan, a first-year Ph.D. student at the ECE Department, University o
 
 My research interest is mainly focusing on Ultrafast Fiber Laser, Ultrafast Time-resolved Laser Spectroscopy, Integrated Optofluidics Ultrafast Spectrometer, and Spectral Analysis.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
