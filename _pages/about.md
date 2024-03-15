@@ -3,7 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://grad.soe.ucsc.edu/ece'>University of California, Santa Cruz<www.baidu.com>. ECE Department. 
-
 1156 High St, Santa Cruz, CA 95064, +86 18505815147.
 
 profile:
