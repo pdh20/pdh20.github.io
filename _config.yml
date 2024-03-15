@@ -7,8 +7,7 @@ first_name: Denghui
 middle_name: 
 last_name: Pan
 email: pdh20@tsinghua.org.cn
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  config.yml line 11
+description: > config.yml line 11# the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >config.yml line 12
 keywords: config.yml line 13, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
