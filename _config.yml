@@ -10,7 +10,7 @@ email: pdh20@tsinghua.org.cn
 description: > 
   Denghui Pan
 footer_text: >
-  UCSC
+  UCSC, ECE Department.
 keywords:  config.yml line 13, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -18,7 +18,7 @@ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name
 url: https://pdh20.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  config.yml line 21 # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -65,12 +65,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: pdh20 # your GitHub user name
-gitlab_username: pdh20 onfig.yml line 68 # your GitLab user name
-twitter_username: onfig.yml line 69 # your Twitter handle
+twitter_username:  # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: onfig.yml line 73 # your Google Scholar ID
+scholar_userid: YOWLTwcAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -101,7 +100,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: > 
-  onfig.yml line 103
+  Feel free to contact me at your convenience.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
